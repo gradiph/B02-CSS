@@ -1,0 +1,56 @@
+div {
+				height: 50px;
+				border: 2px solid black;
+				margin: 20px;
+			}
+				.tabel {width: 100%;}
+			a {
+				text-decoration: none;
+			}
+			
+			#btn-simpan, #btn-reset {
+				cursor: pointer;
+			}
+		.tabel-isi {
+			font-family: sans-serif;
+			color: black;
+			border-collapse: collapse;
+			padding: 8px 20px;
+		}
+		.tabel-isi td, th {
+			border: 1px solid #999;
+			padding: 8px 20px;
+		}
+		.tabel-isi .hitam {
+			background: #868e96;
+			color: #f8f9fa;
+			padding: 8px 20px;
+			text-align: center;
+		}
+		.footer {
+			background-color: #343a40;
+			color: #f8f9fa;
+			padding: 8px;
+		}
+		.syal, .Aksesoris, .Celana-jeans, .Bawahan {
+			text-align: left;
+		}
+		.rata-tengah, .rata-tengah-nomor {
+			text-align: center;
+			font-weight: bold;
+		}
+		.rata-kanan {
+			text-align: right;
+		}
+		#css-border, #table-form {
+			border: 0;
+		}
+		.panjang, .panjang-garis, .panjang-garis-bawah, .panjang-garis-footer {
+			width: 100%;
+		}
+		.Atasan, .Kemeja-TOPTEN, .rata-tengah-tiga {
+			text-align: center;
+		}
+		.input-password{
+			width: 70%;
+		}
