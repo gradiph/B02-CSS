@@ -90,24 +90,21 @@
 							<td class="Aksesoris">Aksesoris</td>
 							<td class="rata-kanan">11</td>
 						</tr>
+						<tr>
+							<td class="rata-tengah-nomor">3</td>
+							<td class="Celana-jeans">Celana Jeans</td>
+							<td class="Bawahan">Bawahan</td>
+							<td class="rata-kanan">7</td>
+						</tr>
 					</tbody>
-					<tfoot>
-					<tr>
-						<td class="rata-tengah-nomor">3</td>
-						<td class="Celana-jeans">Celana Jeans</td>
-						<td class="Bawahan">Bawahan</td>
-						<td class="rata-kanan">7</td>
-					</tr>
-					</tfoot>
-				</thead>
-			</table>
-		</section>
-	</main>
-	<hr class="panjang-garis-footer" id="panjang-garis-footer">
-	
-	<!-- Isi Footer -->
-	<footer class="footer">
-		Baruna, 15 Desember 2018 &copy; Baruna IT
-	</footer>
-</body>
+				</table>
+			</section>
+		</main>
+		<hr class="panjang-garis-footer" id="panjang-garis-footer">
+		
+		<!-- Isi Footer -->
+		<footer class="footer">
+			Baruna, 15 Desember 2018 &copy; Baruna IT
+		</footer>
+	</body>
 </html>
